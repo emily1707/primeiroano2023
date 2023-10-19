@@ -1,3 +1,4 @@
+body{background-color: black;}
 h1{
     color:darkviolet;
     font-size: 20px;
@@ -7,6 +8,6 @@ h1{
 
 p{color:blueviolet;
 text-align: left;
-font-size: 10px;
+font-size: 30px;
 text-align: justify;
 }
