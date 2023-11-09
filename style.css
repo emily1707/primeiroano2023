@@ -13,8 +13,8 @@ text-align: justify;
 }
 
 .logo{
-    width: 200px;
-    height: 200px;
+    width: 20px;
+    height: 20px;
     margin: 2px; /*insere um espaçamento externo ao elemento,ao redor da borda*/
     padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
     border: 0.2rem solid #677b3e;
@@ -22,8 +22,8 @@ text-align: justify;
 }
 
 .fotos {
-  width: 500px;
-  height: 300px;
+  width: 50px;
+  height: 30px;
   margin:10px;
   padding:3px;
   border:0.5rem solid #2c3546;
