@@ -9,7 +9,7 @@ h1{
 }
 
 
-p{color:darkorchid;
+p{color:black;
 text-align: left;
 font-size: 30px;
 text-align: justify;
@@ -20,7 +20,7 @@ text-align: justify;
   height: 400px;
   margin: 2px; /*insere um espaçamento externo ao elemento,ao redor da borda*/
   padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
-  border: 0.2rem solid darkviolet;
+  border: 0.2rem solid black;
   border-radius:20px
 }
 
