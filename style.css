@@ -46,7 +46,7 @@ padding:3px;
 border:0.5rem solid#58A621;
 border-radius:24px;
 }
-lista{
+.lista{
   font-size:20px;
   color:darkgreen;
   list-style: nome;
