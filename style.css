@@ -52,4 +52,7 @@ border-radius:24px;
   list-style: nome;
 
 }
-.
+.item-lista{
+  display:inline-block;
+  justify-content: space-around;
+}
